@@ -1,2 +1,3 @@
 # no-show-appointments-project
-The data analysis steps will be used to look at a set of data to find out about some general and specific features.
+
+Chosen data set that will be analysed is about Brazilian patients who show up or not for their medical appointments. This data set includes several features that are important to this analysis, such as the scheduled day, the hospital's location, and medical insurance.
